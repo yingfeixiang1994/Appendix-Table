@@ -1,1 +1,1 @@
-Paper: Multi-dimensional binary variable-based ACDC hybrid offshore electrical system optimization of the offshore wind farm cluster——Appendix
+Paper: Optimization of group AC/DC hybrid offshore electrical system for offshore wind farms——Appendix
